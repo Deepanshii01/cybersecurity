@@ -716,7 +716,7 @@ def case_study_1():
     
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>Google and Facebook Business Email Compromise (2017-2018) </span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([2,5,2])
+    col1,col2,col3 = st.columns([3,5,2])
 
     with col2:
 
@@ -856,7 +856,7 @@ def case_study_2():
 
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>Edward Snowden's NSA Leaks (2013)</span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([1,5,1])
+    col1,col2,col3 = st.columns([3,5,1])
 
     with col2:
 
@@ -993,7 +993,7 @@ def case_study_2():
 def case_study_3():
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>Equifax Data Breach (2017)</span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([1,5,1])
+    col1,col2,col3 = st.columns([3,5,1])
 
     with col2:
 
@@ -1268,7 +1268,7 @@ def case_study_4():
 def case_study_5():
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>Stuxnet Worm (2010)</span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([1,5,1])
+    col1,col2,col3 = st.columns([3,5,1])
 
     with col2:
 
