@@ -716,7 +716,7 @@ def case_study_1():
     
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>Google and Facebook Business Email Compromise (2017-2018) </span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([3,5,2])
+    col1,col2,col3 = st.columns([3,5,1])
 
     with col2:
 
@@ -1466,7 +1466,7 @@ def main():
         selected = option_menu(
             menu_title=menu_title,
             options=["Home", "What is Cybersecurity?", "Foundations", "Cyber Threats","SBI case study" ,"Case Studies","Leaderboard"],
-            icons=["house", "book", "list-task", "lock","bank", "highlighter","trophy"],
+            icons=["house", "book", "list-task", "lock","bank", "back","trophy"],
             default_index=0,
         )
 
