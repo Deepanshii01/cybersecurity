@@ -1132,11 +1132,11 @@ def case_study_3():
 def case_study_4():
     st.markdown("<h2 style='text-align: Center;'><span style='color: #336699;'>GitHub Data Recovery (2018)</span></h2>", unsafe_allow_html=True)
     
-    col1,col2,col3 = st.columns([1,5,1])
+    col1,col2,col3 = st.columns([3,5,1])
 
     with col2:
 
-        st.image("7.png")
+        st.image("7.jpg")
 
 
     # Background section
