@@ -206,7 +206,7 @@ def foundations_of_cybersecurity():
     col1,col2,col3 = st.columns([2,5,2])
 
     with col2:
-        st.image(r"C:\Users\edwin\Downloads\Cybersecurity\principles.png", use_column_width=True)
+        st.image("principles.png", use_column_width=True)
 
     principles = """
         <p style='text-align: justify; font-size: 17px;'>
@@ -427,7 +427,7 @@ def cyber_threats():
     col1,col2,col3 = st.columns([2,10,2])
 
     with col2:
-        st.image(r"C:\Users\edwin\Downloads\Cybersecurity\types.png", use_column_width=True)
+        st.image("types.png", use_column_width=True)
 
     importance = """
         <p style='text-align: justify; font-size: 17px;'>
@@ -604,7 +604,7 @@ def sbi_case_study():
    col1,col2,col3 = st.columns([10,5,10])
 
    with col2:
-    st.image(r"C:\Users\edwin\Downloads\Cybersecurity\sbi.png", use_column_width=True)
+    st.image("sbi.png", use_column_width=True)
 
    st.markdown("<h3 style='text-align: left;'>Introduction to SBI</h3>", unsafe_allow_html=True)
    st.write("State Bank of India (SBI) is the largest public sector bank in India. It was established in 1955 and is headquartered in Mumbai, India. SBI has a vast network of over 22,000 branches and more than 58,000 ATMs across the country, making it one of the largest banking networks in the world. SBI offers a wide range of banking services, including deposits, loans, credit cards, insurance, and wealth management, catering to both individual and corporate customers.")
@@ -720,7 +720,7 @@ def case_study_1():
 
     with col2:
 
-        st.image(r"C:\Users\edwin\Downloads\Ethics\images\target.jpg")
+        st.image("target.jpg")
 
     #Background section
     st.markdown("<h3 style='text-align: Center;'><span style='color: #336699;'>Background</span></h3>", unsafe_allow_html=True)
@@ -860,7 +860,7 @@ def case_study_2():
 
     with col2:
 
-        st.image(r"C:\Users\edwin\Downloads\Ethics\images\yahoo.jpg")
+        st.image("yahoo.jpg")
 
 
     # Background section
@@ -997,7 +997,7 @@ def case_study_3():
 
     with col2:
 
-        st.image(r"C:\Users\edwin\Downloads\Ethics\images\marriott.jpg")
+        st.image("marriott.jpg")
 
 
     # Background section
@@ -1136,7 +1136,7 @@ def case_study_4():
 
     with col2:
 
-        st.image(r"C:\Users\edwin\Downloads\Ethics\images\AnthemDataBreach.png")
+        st.image("7.png")
 
 
     # Background section
@@ -1272,7 +1272,7 @@ def case_study_5():
 
     with col2:
 
-        st.image(r"C:\Users\edwin\Downloads\Cybersecurity\9.jpg")
+        st.image("9.jpg")
 
 
     # Background section
