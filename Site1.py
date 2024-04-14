@@ -720,7 +720,7 @@ def case_study_1():
 
     with col2:
 
-        st.image("target.jpg")
+        st.image("5.jpg")
 
     #Background section
     st.markdown("<h3 style='text-align: Center;'><span style='color: #336699;'>Background</span></h3>", unsafe_allow_html=True)
@@ -860,7 +860,7 @@ def case_study_2():
 
     with col2:
 
-        st.image("yahoo.jpg")
+        st.image("8.jpg")
 
 
     # Background section
@@ -997,7 +997,7 @@ def case_study_3():
 
     with col2:
 
-        st.image("marriott.jpg")
+        st.image("6.jpg")
 
 
     # Background section
