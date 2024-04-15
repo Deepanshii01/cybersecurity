@@ -780,7 +780,7 @@ def case_study_1():
 
     st.write("   ")
     st.write("   ")
-    st.markdown("Reading: https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/google-and-facebook-fraudster-pleads-guilty-to-100-million-scam", unsafe_allow_html=True)
+    st.markdown("Explore Further: https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/google-and-facebook-fraudster-pleads-guilty-to-100-million-scam", unsafe_allow_html=True)
     st.write("   ")
     st.write("   ")
 
@@ -917,7 +917,7 @@ def case_study_2():
 
     st.write("   ")
     st.write("   ")
-    st.markdown("Reading: https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance", unsafe_allow_html=True)
+    st.markdown("Explore Further: https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance", unsafe_allow_html=True)
     st.write("   ")
     st.write("   ")
     
@@ -1056,7 +1056,7 @@ def case_study_3():
 
     st.write("   ")
     st.write("   ")
-    st.markdown("Reading: https://en.wikipedia.org/wiki/2017_Equifax_data_breach#:~:text=Information%20accessed%20in%20the%20breach,British%20residents%20was%20also%20compromised.", unsafe_allow_html=True)
+    st.markdown("Explore Further: https://en.wikipedia.org/wiki/2017_Equifax_data_breach#:~:text=Information%20accessed%20in%20the%20breach,British%20residents%20was%20also%20compromised.", unsafe_allow_html=True)
     st.write("   ")
     st.write("   ")
     
@@ -1193,7 +1193,7 @@ def case_study_4():
 
     st.write("   ")
     st.write("   ")
-    st.markdown("Reading:  https://www.linkedin.com/pulse/how-githubs-database-self-destructed-43-seconds-david-furman", unsafe_allow_html=True)
+    st.markdown("Explore Further:  https://www.linkedin.com/pulse/how-githubs-database-self-destructed-43-seconds-david-furman", unsafe_allow_html=True)
     st.write("   ")
     st.write("   ")
     
@@ -1330,7 +1330,7 @@ def case_study_5():
 
     st.write("   ")
     st.write("   ")
-    st.markdown("Reading: http://large.stanford.edu/courses/2015/ph241/holloway1/", unsafe_allow_html=True)
+    st.markdown("Explore Further: http://large.stanford.edu/courses/2015/ph241/holloway1/", unsafe_allow_html=True)
     st.write("   ")
     st.write("   ")
     
